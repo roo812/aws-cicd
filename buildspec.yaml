@@ -36,3 +36,4 @@ artifacts:
   files:
     - imagedefinitions.json
     - target/course-service.jar
+#just comment
